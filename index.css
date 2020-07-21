@@ -115,7 +115,7 @@ body {
 
 @media only screen and (min-width :360px) and (max-width :790px) {
   .memory-game-blocks .game-block {
-    height: 93px;
+    height: 100px;
     width: 100px;
     transition: transform .5s;
     transform-style: preserve-3d;
